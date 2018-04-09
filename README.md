@@ -6,4 +6,5 @@ The batch file is for Windows only and needs to be in the same directory as the 
 java -jar "Quadratic Nth Term Calculator.jar"
 
 ![image](https://user-images.githubusercontent.com/28353935/38515778-1b167768-3c2d-11e8-9bbe-8fdb2514c02b.png)
+
 ![image](https://user-images.githubusercontent.com/28353935/38515843-56494d7e-3c2d-11e8-8d69-e98a9f972c4d.png)
