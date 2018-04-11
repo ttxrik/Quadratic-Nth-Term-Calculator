@@ -2,7 +2,7 @@ package main.calculations;
 
 import main.Input;
 
-public class B extends Calculations{
+public class B extends Calculations {
 
     // Formula is 3a + b = n2 - n1
 
@@ -23,15 +23,6 @@ public class B extends Calculations{
     public int getB() {
         return getb1() - getb2();
     }
-
-
-
-
-
-
-
-
-
 
 
 }

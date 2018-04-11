@@ -34,11 +34,11 @@ public class Input {
                 n4 = in4.nextInt();
                 validation = 2;
 
-            }catch (Exception e) {
+            } catch (Exception e) {
                 System.out.println("Please enter numbers ONLY..");
                 validation = 1;
             }
-        }while (validation == 1);
+        } while (validation == 1);
 
     }
 

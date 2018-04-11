@@ -26,7 +26,6 @@ public class FinalOperation {
     public int c = cTerm.getC();
 
 
-
     public void finaloperation() {
 
         input.inputMain();
@@ -59,7 +58,6 @@ public class FinalOperation {
     public int getN4() {
         return number4;
     }
-
 
 
 }

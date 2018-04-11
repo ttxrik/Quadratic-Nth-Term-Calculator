@@ -13,6 +13,7 @@
 package main;
 
 import java.util.Scanner;
+
 import main.calculations.A;
 import main.calculations.B;
 import main.calculations.C;
@@ -53,7 +54,7 @@ public class Main {
             if (choice == 1) {
                 fo.finaloperation();
                 validation = 2;
-            }else if (choice == 2) {
+            } else if (choice == 2) {
                 System.out.println(infoMsg);
                 Scanner in2 = new Scanner(System.in);
                 int c2 = in2.nextInt();
@@ -63,7 +64,7 @@ public class Main {
                     System.out.println("Exiting..");
                     validation = 2;
                 }
-            }else if (choice == 3) {
+            } else if (choice == 3) {
                 System.out.println("Exiting..");
                 validation = 2;
 

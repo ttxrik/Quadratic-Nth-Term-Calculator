@@ -2,7 +2,7 @@ package main.calculations;
 
 import main.Input;
 
-public class C extends Calculations{
+public class C extends Calculations {
 
     //Sub class for calculations.
 
@@ -19,7 +19,6 @@ public class C extends Calculations{
     public int getC() {
         return number1 - getSum();
     }
-
 
 
 }

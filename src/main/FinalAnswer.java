@@ -33,13 +33,13 @@ public class FinalAnswer {
         String n = "n²"; // cba to copy and paste it everywhere
 
 
-         if (a < 0) {
-             System.out.println("Answer is: " + a + n + "+" + b + "n" + "+" + c);
-         }else if (b < 0) {
+        if (a < 0) {
+            System.out.println("Answer is: " + a + n + "+" + b + "n" + "+" + c);
+        } else if (b < 0) {
             System.out.println("Answer is: " + a + n + b + "n" + "+" + c);
-         }else if (c < 0) {
+        } else if (c < 0) {
             System.out.println("Answer is: " + a + n + "+" + b + "n" + c);
-         }else {
+        } else {
             System.out.println("Answer is: " + a + n + "+" + b + "n" + "+" + c);
         }
 
@@ -49,13 +49,7 @@ public class FinalAnswer {
         to do it like that. */
 
 
-
-
     }
-
-
-
-
 
 
 }
