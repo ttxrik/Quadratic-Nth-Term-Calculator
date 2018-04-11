@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46ae3b3b-c317-4817-b0b5-7db611c6146f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/FinalAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/FinalAnswer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/FinalOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/FinalOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/calculations/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/calculations/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/calculations/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/calculations/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/calculations/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/calculations/Calculations.java" afterDir="false" />
-    </list>
+    <list default="true" id="46ae3b3b-c317-4817-b0b5-7db611c6146f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calculations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calculations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/calculations/Calculations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -111,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="34" />
     <option name="y" value="260" />
     <option name="width" value="1400" />
@@ -129,6 +129,11 @@
             <path>
               <item name="Quadratic-Nth-Term-Calculator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Quadratic-Nth-Term-Calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Quadratic-Nth-Term-Calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quadratic-Nth-Term-Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Quadratic-Nth-Term-Calculator" type="b2602c69:ProjectViewProjectNode" />
@@ -234,7 +239,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -321,6 +326,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
         </state>
       </provider>
     </entry>
