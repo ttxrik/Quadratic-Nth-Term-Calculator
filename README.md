@@ -4,7 +4,9 @@ This is a program I made to show ada sixth-form during my interview, to hopefull
 To run the program, you will need the [Java runtime environment.](https://java.com/en/download/)  This program will only work on the command line / terminal as there is no GUI. However, I did make a batch file that you can run directly (but only works on Windows). If you would like to run the program on any device,
 download the jar file and move it somewhere, go into the terminal / command line of your operating system, change the directory into the path of the jar file and type: 'java -jar "Quadratic Nth Term Calculator.jar"'. Then the program should execute correctly.
 If you're on a Windows operating system and too lazy to do all of that, download the entire Runnables file, and run the "Quadratic Nth Term Calculator.bat". (Make sure that the jar file and the batch file are both in the same directory for the batch
-file to execute correctly). I might make a graphical user interface in the future, if I have time.
+file to execute correctly). 
+
+If I have time in the future, I might make a nice looking graphical user interface for this program.
 
 ![image](https://user-images.githubusercontent.com/28353935/38515778-1b167768-3c2d-11e8-9bbe-8fdb2514c02b.png)
 
