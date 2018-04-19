@@ -1,5 +1,5 @@
 # Quadratic Nth Term Calculator
-This is a program I made to show ada sixth-form during my interview, to hopefully get accepted.  The program will calculate the formula for any quadratic sequence using the algebra method. (This is my first proper program in Java!)
+This is a program I made to show ada sixth-form during my interview, to hopefully get accepted.  The program will calculate the formula for any quadratic sequence using the algebra method. In addition, this is a grade 9 GCSE topic. (This is my first proper program in Java!)
 
 To run the program, you will need the [Java runtime environment.](https://java.com/en/download/)  This program will only work on the command line / terminal as there is no GUI. However, I did make a batch file that you can run directly (but only works on Windows). If you would like to run the program on any device,
 download the jar file from the 'Runnables' folder and move it somewhere. Go into the terminal / command line of your operating system, change the directory into the path of the jar file and type: 'java -jar "Quadratic Nth Term Calculator.jar"'. Then the program should execute correctly.
