@@ -1,6 +1,7 @@
 # Quadratic Nth Term Calculator
 
 ## Version 1.0.1
+##### Wow, I didn't expect so many schools to actually download this onto their computer network! Due to how much this has grown, after my GCSESs i'll work on a pretty graphical user interface!
 
  This is a program I made to show ada sixth-form during my interview, to hopefully get accepted.  The program will calculate the formula for any quadratic sequence using the algebra method. In addition, this is a grade 9 GCSE topic. (This is my first proper program in Java!)
 
