@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Quadratic Nth Term:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Quadratic_Nth_Term_jar</output-path>
-    <root id="archive" name="Quadratic Nth Term.jar">
-      <element id="module-output" name="Quadratic Nth Term" />
-    </root>
-  </artifact>
-</component>
